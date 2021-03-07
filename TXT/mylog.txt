@@ -17,3 +17,5 @@ ZCZC W01 120    L22 Youtube : Watching vtuber to relax
 ZCZC W01 15     L15 Assignment #5 : Trying Demos bash script
 ZCZC W01 10     L16 Assignment #6 : Editing this file
 ZCZC W01 120    L05 GSGS related : Learning jekyll and ATM on cbkadal and HardJoe
+ZCZC W01 120    L17 Assignment #7 : Finding and adding links to my top 10
+ZCZC W01 30     L18 Assignment #8 : Learn regex and bash basics
