@@ -1,20 +1,30 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode https://osp4diss.vslm.org/ETC/logCodes.txt
-ZCZC W00 10 	L03 GitHub related
-ZCZC W00 10 	L05 GSGS related : Searching about QUIZ W00 Q003
-ZCZC W00 10 	L05 GSGS related : Searching about QUIZ W00 Q004
-ZCZC W00 5  	L01 SCELE related : QUIZ W00 Q005
-ZCZC W00 60 	L02 ZOOM related : Class
-ZCZC W01 60 	L02 ZOOM related : Class
-ZCZC W01 30 	L05 GSGS related : Searching about QUIZ W01
-ZCZC W01 120	L11 Assignment #1 : Installing Debian Guest
-ZCZC W01 30   L12 Assignment #2 : GSGS and Read about linux commands
-ZCZC W01 60   L13 Assignment #3 : Trying linux commands
-ZCZC W01 15   L14 Assignment #4 : Importing .bash_aliases
-ZCZC W01 120  L22 Youtube : Watching vtuber to relax
-ZCZC W01 15   L15 Assignment #5 : Trying Demos bash script
-ZCZC W01 10   L16 Assignment #6 : Editing this file
-ZCZC W01 120  L05 GSGS related : Learning jekyll and ATM on cbkadal and HardJoe
-ZCZC W01 120  L17 Assignment #7 : Finding and adding links to my top 10
-ZCZC W01 30   L18 Assignment #8 : Learn regex and bash basics
+ZCZC W00 10     L03 GitHub related
+ZCZC W00 10     L05 GSGS related : Searching about QUIZ W00 Q003
+ZCZC W00 10     L05 GSGS related : Searching about QUIZ W00 Q004
+ZCZC W00 5      L01 SCELE related : QUIZ W00 Q005
+ZCZC W00 60     L02 ZOOM related : Class
+ZCZC W01 60     L02 ZOOM related : Class
+ZCZC W01 30     L05 GSGS related : Searching about QUIZ W01
+ZCZC W01 120    L11 Assignment #1 : Installing Debian Guest
+ZCZC W01 30     L12 Assignment #2 : GSGS and Read about linux commands
+ZCZC W01 60     L13 Assignment #3 : Trying linux commands
+ZCZC W01 15     L14 Assignment #4 : Importing .bash_aliases
+ZCZC W01 120    L22 Youtube : Watching vtuber to relax
+ZCZC W01 15     L15 Assignment #5 : Trying Demos bash script
+ZCZC W01 10     L16 Assignment #6 : Editing this file
+ZCZC W01 120    L05 GSGS related : Learning jekyll and ATM on cbkadal and HardJoe
+ZCZC W01 120    L17 Assignment #7 : Finding and adding links to my top 10
+ZCZC W01 30     L18 Assignment #8 : Learn regex and bash basics
+ZCZC W02 10     L11 Assignment #1 : Read slide
+ZCZC W02 15     L13 Assignment #3 : Try demo week2
+ZCZC W02 30     L14 Assignment #4 : Generate GPG key pair then GSGS about it
+ZCZC W02 10     L15 Assignment #5 : Import public key
+ZCZC W02 10     L16 Assignment #6 : Export my public key
+ZCZC W02 45     L17 Assignment #7 : Review top 3 of 10 next neighbour
+ZCZC W02 180    L18 Assignment #8 : GSGS and update Top 10 for week 2
+ZCZC W02 15     L19 Assignment #9 : Copy bash script from cbkadal
+ZCZC W02 15     L20 Assignment #10 : Editing this file
+ZCZC W02 15     L21 Assignment #11 : Sign SHA256SUM with the bash script
