@@ -28,3 +28,10 @@ ZCZC W02 180    L18 Assignment #8 : GSGS and update Top 10 for week 2
 ZCZC W02 15     L19 Assignment #9 : Copy bash script from cbkadal
 ZCZC W02 15     L20 Assignment #10 : Editing this file
 ZCZC W02 15     L21 Assignment #11 : Sign SHA256SUM with the bash script
+ZCZC W02 15     L20 Assignment #11 : Sign SHA256SUM with the bash script
+ZCZC W03 60     L11 Assignment #1 : Read ch 13-15 slides
+ZCZC W03 60     L12 Assignment #2 : Tried week 2 and 3 Demos
+ZCZC W03 30     L17 Assignment #7 : Downloaded the tar, unpack it, run the script, tarball it to myW03
+ZCZC W03 5      L18 Assignment #8 : Update REC2 to valentinohp11@gmail.com
+ZCZC W03 5      L19 Assignment #9 : Run myscript.sh
+ZCZC W03 120    L22 Youtube : Watching Reine's music and instrument stream
