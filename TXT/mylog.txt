@@ -35,3 +35,8 @@ ZCZC W03 30     L17 Assignment #7 : Downloaded the tar, unpack it, run the scrip
 ZCZC W03 5      L18 Assignment #8 : Update REC2 to valentinohp11@gmail.com
 ZCZC W03 5      L19 Assignment #9 : Run myscript.sh
 ZCZC W03 120    L22 Youtube : Watching Reine's music and instrument stream
+ZCZC W03 30     L13 Assignment #3 : Test and making sure that my .bash_aliases is up-to-date
+ZCZC W03 45     L14 Assignment #4 : Review top 3 of 10 next neighbour's week2 top 10
+ZCZC W03 60     L05 GSGS related : bash scripting
+ZCZC W03 180    L15 Assignment #5 : GSGS and update Top 10 for week 3
+ZCZC W03 5      L16 Assignment #6 : Update this file
