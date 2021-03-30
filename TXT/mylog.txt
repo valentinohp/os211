@@ -40,3 +40,11 @@ ZCZC W03 45     L14 Assignment #4 : Review top 3 of 10 next neighbour's week2 to
 ZCZC W03 60     L05 GSGS related : bash scripting
 ZCZC W03 180    L15 Assignment #5 : GSGS and update Top 10 for week 3
 ZCZC W03 5      L16 Assignment #6 : Update this file
+ZCZC W04 30     L11 Assignment #1 : Read ch 9 slides
+ZCZC W04 45     L12 Assignment #2 : Tried Demos
+ZCZC W04 45     L13 Assignment #3 : Review top 10 of 10 next neighbour
+ZCZC W04 60     L16 Assignment #6 : Downloaded the tar, unpack it, run the script, tarball it to myW04
+ZCZC W04 5      L15 Assignment #5 : Update this file
+ZCZC W04 5      L17 Assignment #7 : Update bash script
+ZCZC W04 180    L14 Assignment #4 : GSGS and compile Top 10 for week 4
+ZCZC W04 5      L18 Assignment #8 : Run myscript.sh
