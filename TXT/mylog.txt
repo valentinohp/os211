@@ -48,3 +48,5 @@ ZCZC W04 5      L15 Assignment #5 : Update this file
 ZCZC W04 5      L17 Assignment #7 : Update bash script
 ZCZC W04 180    L14 Assignment #4 : GSGS and compile Top 10 for week 4
 ZCZC W04 5      L18 Assignment #8 : Run myscript.sh
+ZCZC W05 30     L11 Assignment #1 : Read ch 10 slides
+ZCZC W05 90     L14 Assignment #4 : Done W05 demo
