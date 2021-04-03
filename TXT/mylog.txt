@@ -48,9 +48,13 @@ ZCZC W04 5      L15 Assignment #5 : Update this file
 ZCZC W04 5      L17 Assignment #7 : Update bash script
 ZCZC W04 180    L14 Assignment #4 : GSGS and compile Top 10 for week 4
 ZCZC W04 5      L18 Assignment #8 : Run myscript.sh
+ZCZC W05 100    L02 ZOOM related : Class
 ZCZC W05 30     L11 Assignment #1 : Read ch 10 slides
+ZCZC W05 30     L01 SCELE related : QUIZ W05 Q02
+ZCZC W05 30     L01 SCELE related : QUIZ W05 Q01
 ZCZC W05 90     L14 Assignment #4 : Done W05 demo
 ZCZC W05 180    L13 Assignment #5 : GSGS and compile Top 10 for week 5
+ZCZC W05 45     L01 SCELE related : Asking lecturers help to gain access to os211.vlsm.org
 ZCZC W05 45     L12 Assignment #3 : Review top 10 of 10 next neighbour
 ZCZC W05 5      L15 Assignment #5 : Update this file
 ZCZC W05 5      L16 Assignment #6 : Run myscript.sh
