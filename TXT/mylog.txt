@@ -63,3 +63,4 @@ ZCZC W06 30     L12 Assignment #2 : Review top 10 of 10 next neighbour
 ZCZC W06 60     L14 Assignment #4 : Done W06 demo
 ZCZC W06 5      L15 Assignment #5 : Update this log
 ZCZC W06 5      L16 Assignment #6 : Run myscript.sh
+ZCZC W06 120    L13 Assignment #3 : GSGS and compile Top 10 for week 6
