@@ -58,3 +58,8 @@ ZCZC W05 45     L01 SCELE related : Asking lecturers help to gain access to os21
 ZCZC W05 45     L12 Assignment #3 : Review top 10 of 10 next neighbour
 ZCZC W05 5      L15 Assignment #5 : Update this file
 ZCZC W05 5      L16 Assignment #6 : Run myscript.sh
+ZCZC W06 30     L11 Assignment #1 : Read ch 03 and 04 slide
+ZCZC W06 30     L12 Assignment #2 : Review top 10 of 10 next neighbour
+ZCZC W06 60     L14 Assignment #4 : Done W06 demo
+ZCZC W06 5      L15 Assignment #5 : Update this log
+ZCZC W06 5      L16 Assignment #6 : Run myscript.sh
