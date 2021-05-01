@@ -14,3 +14,6 @@ ZCZC W04 zulfankasilas
 ZCZC W05 yosuahutagalung
 ZCZC W05 X1non
 ZCZC W05 Veniche
+ZCZC W06 zulfankasilas
+ZCZC W06 Veniche
+ZCZC W06 zahrahrp
