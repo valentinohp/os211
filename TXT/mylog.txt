@@ -76,3 +76,4 @@ ZCZC W08 30     L14 Assignment #4 : Copy W08 to local then to valentinohp@osp th
 ZCZC W08 30     L12 Assignment #2 : Review top 10 of 10 next neighbour
 ZCZC W08 5      L15 Assignment #5 : Update this log
 ZCZC W08 5      L16 Assignment #6 : Run myscript.sh
+ZCZC W08 120    L12 Assignment #2 : GSGS and compile Top 10 for week 8
